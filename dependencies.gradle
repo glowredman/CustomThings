@@ -1,0 +1,8 @@
+dependencies {
+    compile "com.enderio.core:EnderCore:1.7.10-0.2.0.39_beta:dev"
+    compile "org.projectlombok:lombok:1.18.24"
+    compile "tterrag.difficultyrecipes:DifficultyRecipes:MC1.7.10-0.1.0-3:deobf"
+    compile "codechicken:NotEnoughItems:1.7.10-1.0.5.120:dev"
+
+    annotationProcessor "org.projectlombok:lombok:1.18.24"
+}

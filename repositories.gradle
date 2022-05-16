@@ -1,0 +1,10 @@
+repositories {
+    maven {
+        name "tterag maven"
+        url "https://maven.tterrag.com/"
+    }
+    maven {
+        name "ChickenBones maven"
+        url "https://chickenbones.net/maven/"
+    }
+}

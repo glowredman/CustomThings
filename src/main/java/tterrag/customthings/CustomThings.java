@@ -26,8 +26,8 @@ public class CustomThings implements IEnderMod
 {
     public static final String MODID = "customthings";
     public static final String NAME = "Custom Things";
-    public static final String VERSION = "@VERSION@";
-    public static final String DEPENDENCIES = "after:endercore";
+    public static final String VERSION = "GRADLETOKEN_VERSION";
+    public static final String DEPENDENCIES = "required-after:endercore";
 
     @EventHandler
     public void preInit(FMLPreInitializationEvent event)
